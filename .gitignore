@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+runs/
+figures/
+data/*.f16
+data/clim_doy.npy
+data/times_*.npy
